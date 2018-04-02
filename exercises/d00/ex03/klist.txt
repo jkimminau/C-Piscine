@@ -1,0 +1,7 @@
+Credentials cache: API:31864
+        Principal: jkimmina@42.US.ORG
+
+  Issued                Expires               Principal
+Jan  8 09:53:46 2018  Jan  8 19:53:46 2018  krbtgt/42.US.ORG@42.US.ORG
+Jan  8 09:53:50 2018  Jan  8 19:53:46 2018  ldap/ldap-proxy.42.us.org@42.US.ORG
+Jan  8 11:07:58 2018  Jan  8 19:53:46 2018  host/vgs-fn1.42.us.org@42.US.ORG
